@@ -36,7 +36,7 @@ Example of character animation logic.
 
 ![animation](https://github.com/Kirill-Geskin/IMG/blob/main/2022-07-26%20(5).png)
 
-Artificial Intelligence Behavior Tree.
+AI Behavior Tree.
 
 ![BT](https://github.com/Kirill-Geskin/IMG/blob/main/2022-07-26%20(4).png)
 
