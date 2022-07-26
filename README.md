@@ -24,13 +24,24 @@ The project is made on the basis of the course [«Unreal Engine — Полное
 
 Game menu and level selection.
 
+![Game menu and level selection.](https://github.com/Kirill-Geskin/IMG/blob/main/2022-07-26%20(8).png)
+
 Examples of the implementation of game mechanics (damage, timers, counters).
+
+![1](https://github.com/Kirill-Geskin/IMG/blob/main/2022-07-26%20(7).png)
+
+![2](https://github.com/Kirill-Geskin/IMG/blob/main/2022-07-26%20(6).png)
 
 Example of character animation logic.
 
+![animation](https://github.com/Kirill-Geskin/IMG/blob/main/2022-07-26%20(5).png)
+
 Artificial Intelligence Behavior Tree.
 
+![BT](https://github.com/Kirill-Geskin/IMG/blob/main/2022-07-26%20(4).png)
+
 Work with special effects (Niagara system).
+
 ![Work with special effects (Niagara system).](https://github.com/Kirill-Geskin/IMG/blob/main/2022-07-26%20(9).png)
 
 
