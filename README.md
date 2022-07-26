@@ -19,3 +19,20 @@ The project is made on the basis of the course [«Unreal Engine — Полное
     - SoundClass, SoundMix, SoundCue, Attenuation settings
   - **VFX**
     - Niagara, Postprocessing, Decals, CameraShake, Ragdoll
+
+## Examples of the implementation of game elements:
+
+Game menu and level selection.
+
+Examples of the implementation of game mechanics (damage, timers, counters).
+
+Example of character animation logic.
+
+Artificial Intelligence Behavior Tree.
+
+Work with special effects (Niagara system).
+![Work with special effects (Niagara system).](https://github.com/Kirill-Geskin/IMG/blob/main/2022-07-26%20(9).png)
+
+
+##
+Access to the sources of this project and their use are regulate [Unreal Engine End User License Agreement](https://www.unrealengine.com/eula)
